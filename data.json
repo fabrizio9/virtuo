@@ -1,0 +1,52 @@
+[
+  {
+    "plate": "DY-655-EL",
+    "mileage": 3360,
+    "fuel": 38,
+    "gps": {
+      "latitude": 49.7074,
+      "longitude": 0.203436
+    },
+    "capture_at":"2016-05-31T22:55:07.000Z"
+  },
+  {
+    "plate": "DY-655-EL",
+    "mileage": 3370,
+    "fuel": 36,
+    "gps": {
+      "latitude": 49.7274,
+      "longitude": 0.223436
+    },
+    "capture_at": "2016-05-31T22:35:07.000Z"
+  },
+  {
+    "plate": "DY-655-EL",
+    "mileage": 3390,
+    "fuel": 36,
+    "gps": {
+      "latitude": 49.7774,
+      "longitude": 0.233436
+    },
+    "capture_at": "2016-05-31T23:35:07.000Z"
+  },
+  {
+    "plate": "DY-655-EL",
+    "mileage": 3400,
+    "fuel": 35,
+    "gps": {
+      "latitude": 49.7974,
+      "longitude": 0.303436
+    },
+    "capture_at": "2016-05-31T23:45:07.000Z"
+  },
+  {
+    "plate": "DY-655-EL",
+    "mileage": 3400,
+    "fuel": 30,
+    "gps": {
+      "latitude": 49.8574,
+      "longitude": 0.403436
+    },
+    "capture_at": "2016-05-31T02:00:07.000Z"
+  }
+]
